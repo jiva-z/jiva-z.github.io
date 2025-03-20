@@ -14,12 +14,11 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 지윤's 개발일지 # the main title
+title: 지윤의 개발일지 # the main title
 
-tagline: 냠 # it will display as the subtitle
+tagline: 나의 소질로 이 세상에 할 수 있는 일을 찾아가는 과정 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  제발 배포 되어주세요..
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +97,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "./assets/img/git_profile.png"
+avatar: 'C:/blog/jiva-z.github.io/assets/img/git_profile.png'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
