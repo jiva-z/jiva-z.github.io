@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 지윤의 개발일지 # the main title
 
-tagline: 나의 소질로 이 세상에 할 수 있는 일을 찾아가는 과정 # it will display as the subtitle
+tagline: 이 세상에 할 수 있는 일을 찾아가는 과정 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 
